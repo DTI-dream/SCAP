@@ -17,10 +17,17 @@
 
 * Install the `conda` environment using `environment.yml`. This project uses Python 3.6 and PyTorch 1.1.0. Note that an incorrect `cudnn` version may lead to errors.
 
+* Download the model weight and `annotations` folder.
+
+  ```
+  https://drive.google.com/drive/folders/1J2blJbdXqDxJB3qFKXpIo16CsgVIXhse?usp=sharing
+  
+  ```
+
 * Download the `coco_detections.hdf5` file
 
   ```
-  Annotations download link: https://pan.baidu.com/s/1zDrue0kgWapxNjaItS9PKg?pwd=3b1e 
+  https://pan.baidu.com/s/1zDrue0kgWapxNjaItS9PKg?pwd=3b1e 
   Extraction code: 3b1e 
   ```
 
